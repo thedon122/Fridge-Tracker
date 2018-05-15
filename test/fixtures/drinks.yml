@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fridge: one
+  name: MyString
+  size: MyString
+  alcoholic: false
+
+two:
+  fridge: two
+  name: MyString
+  size: MyString
+  alcoholic: false
